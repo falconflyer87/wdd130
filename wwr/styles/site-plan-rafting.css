@@ -7,18 +7,18 @@ body {
 }
 
 :root {
-    --primary-color: #14BDEB
-    --seondary-color: #1F363D
-    --accent1-color: #FBB13C
-    --accent2-color: #CCDBDC
+    --primary-color: #14BDEB;
+    --seondary-color: #1F363D;
+    --accent1-color: #FBB13C;
+    --accent2-color: #CCDBDC;
 
     --heading-font: 'Rock Salt', serif;
     --paragraph-font: 'Freeman', serif;
 
-    --nav-background-color: #14BDEB
-    --nav-link-color: #FBB13C
-    --nav-hover-link-color: #CCDBDC
-    --nav-hover-background-color: #1F363D
+    --nav-background-color: #14BDEB;
+    --nav-link-color: #FBB13C;
+    --nav-hover-link-color: #CCDBDC;
+    --nav-hover-background-color: #1F363D;
 }
 
 body {
